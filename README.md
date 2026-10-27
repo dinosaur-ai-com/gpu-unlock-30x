@@ -18,6 +18,8 @@ The effect of this unlock is that it doubles the instruction issuing speed of FP
 
 ## How to install
 
+For Nix/NixOS, see [packaging/nix/README.md](packaging/nix/README.md).
+
 First run:
 
 ```sh
